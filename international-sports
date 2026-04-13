@@ -200,32 +200,98 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/659435
 
 
 
-#--*.*--05. POR - DAZN--*.*--#
+#--*.*--05. FR - CANAL+--*.*--#
 
 
-#EXTINF:-1 group-title="05. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 1
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ SPORT
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ FOOT
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122056&extension=ts&play_token=223GgKAnFY
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122022&extension=ts&play_token=iSj2dolRme
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 3
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122024&extension=ts&play_token=CybqwfSLOa
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 4
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122939&extension=ts&play_token=HIEGNfDnjh
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 5
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122028&extension=ts&play_token=kFra0tQEzm
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 6
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122030&extension=ts&play_token=JO8O3NwIu3
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 7
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122032&extension=ts&play_token=v6BlP5EabS
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 8
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122034&extension=ts&play_token=x6iYHVWSH9
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 9
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 10
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122038&extension=ts&play_token=Pop6uUQR3I
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 11
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122040&extension=ts&play_token=hTZeyPAfkN
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 12
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122042&extension=ts&play_token=1MtcjI5wmF
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 13
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122044&extension=ts&play_token=g168GcxJY4
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 14
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122046&extension=ts&play_token=ehR6K7NzS8
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 15
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122048&extension=ts&play_token=jR2N0mt5SZ
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 16
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122050&extension=ts&play_token=pgbrtZxiUM
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 17
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
+
+#EXTINF:-1 group-title="05. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 18
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122054&extension=ts&play_token=XPmBZyeTRp
+
+
+
+
+#--*.*--06. POR - DAZN--*.*--#
+
+
+#EXTINF:-1 group-title="06. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 1
 https://restream-live.realiptv.to/MotherOfPins3/8746645/925
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31954/index.m3u8
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/926
 
-#EXTINF:-1 group-title="05. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 2
+#EXTINF:-1 group-title="06. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 2
 https://restream-live.realiptv.to/MotherOfPins3/8746645/923
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/924
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2532/index.m3u8
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31955/index.m3u8
 
-#EXTINF:-1 group-title="05. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 3
+#EXTINF:-1 group-title="06. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 3
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7062/index.m3u8
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31956/index.m3u8
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/921
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/922
 
-#EXTINF:-1 group-title="05. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 4
+#EXTINF:-1 group-title="06. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 4
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31957/index.m3u8
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/919
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/920
 
-#EXTINF:-1 group-title="05. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 5
+#EXTINF:-1 group-title="06. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 5
 https://restream-live.realiptv.to/MotherOfPins3/8746645/917
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/918
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31957/index.m3u8
@@ -233,101 +299,35 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/917
 
 
 
-#--*.*--06. FR - CANAL+--*.*--#
+#--*.*--07. POR - SPORT TV--*.*--#
 
 
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ SPORT
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ FOOT
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122056&extension=ts&play_token=223GgKAnFY
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122022&extension=ts&play_token=iSj2dolRme
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122024&extension=ts&play_token=CybqwfSLOa
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 4
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122939&extension=ts&play_token=HIEGNfDnjh
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 5
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122028&extension=ts&play_token=kFra0tQEzm
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 6
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122030&extension=ts&play_token=JO8O3NwIu3
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 7
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122032&extension=ts&play_token=v6BlP5EabS
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 8
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122034&extension=ts&play_token=x6iYHVWSH9
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 9
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 10
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122038&extension=ts&play_token=Pop6uUQR3I
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 11
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122040&extension=ts&play_token=hTZeyPAfkN
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 12
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122042&extension=ts&play_token=1MtcjI5wmF
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 13
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122044&extension=ts&play_token=g168GcxJY4
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 14
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122046&extension=ts&play_token=ehR6K7NzS8
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 15
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122048&extension=ts&play_token=jR2N0mt5SZ
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 16
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122050&extension=ts&play_token=pgbrtZxiUM
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 17
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
-
-#EXTINF:-1 group-title="06. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 18
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122054&extension=ts&play_token=XPmBZyeTRp
-
-
-
-
-#--*.*--07. POT - SPORT TV--*.*--#
-
-
-#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 1
+#EXTINF:-1 group-title="07. POR - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 1
 https://restream-live.realiptv.to/MotherOfPins3/8746645/848
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2525/index.m3u8
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31942/index.m3u8
 
-#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 2
+#EXTINF:-1 group-title="07. POR - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 2
 https://restream-live.realiptv.to/MotherOfPins3/8746645/846
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2526/index.m3u8
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31943/index.m3u8
 
-#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 3
+#EXTINF:-1 group-title="07. POR - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 3
 https://restream-live.realiptv.to/MotherOfPins3/8746645/844
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2527/index.m3u8
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31944/index.m3u8
 
-#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 4
+#EXTINF:-1 group-title="07. POR - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 4
 https://restream-live.realiptv.to/MotherOfPins3/8746645/842
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31945/index.m3u8
 
-#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 5
+#EXTINF:-1 group-title="07. POR - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 5
 https://restream-live.realiptv.to/MotherOfPins3/8746645/839
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/840
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2529/index.m3u8
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31946/index.m3u8
 
-#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV +
+#EXTINF:-1 group-title="07. POR - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV +
 https://restream-live.realiptv.to/MotherOfPins3/8746645/51139
 
 
