@@ -1,0 +1,428 @@
+#EXTM3U cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+
+
+
+
+#--*.*--00. UK - SKY SPORT--*.*--#
+
+
+#EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sky-sports-logo.svg", UK Sky Sports New HD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2179
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2183
+
+#EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sky-sports-logo.svg", UK Sky Sports Main Events HD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/9308/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7337/index.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sky-sports-logo.svg", UK Sky Sports Premier League HD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2181
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2182
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/9334/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7335/index.m3u8
+
+#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sky-sports-logo.svg", UK Sky Sports Football
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2188
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/30822
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/9289/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7336/index.m3u8
+
+#EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sky-sports-logo.svg", UK Sky Sports F1 HD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2189
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2190
+#http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=122888&extension=ts&play_token=LB2IN39AIF
+
+#EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sky-sports-logo.svg", UK Sky Sports Plus
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
+
+#EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sky-sports-logo.svg", UK Sky Sports Golf HD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2186
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2187
+
+#EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sky-sports-logo.svg", UK Sky Sports MIX
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2180
+
+#EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sky-sports-logo.svg", UK Sky Sport Racing HD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/527483
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/102182
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2226
+
+#EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sky-sports-logo.svg", UK Sky Sports Action HD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2194
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2195
+
+#EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sky-sports-logo.svg", UK Sky Sports Cricket HD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2191
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2192
+
+
+
+
+#--*.*--01. UK - TNT SPORT--*.*--#
+
+
+#EXTINF:-1 group-title="01. UK - TNT SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/tnt-ports-logo.svg", UK TNT Sports 1 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2337
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/737805
+#http://myxpanel.pro:80/Martin/Martin/709378
+
+#EXTINF:-1 group-title="01. UK - TNT SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/tnt-ports-logo.svg", UK TNT Sports 2 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2336
+#http://myxpanel.pro:80/Martin/Martin/709376
+
+#EXTINF:-1 group-title="01. UK - TNT SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/tnt-ports-logo.svg", UK TNT Sports 3 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2335
+#http://myxpanel.pro:80/Martin/Martin/709374
+
+#EXTINF:-1 group-title="01. UK - TNT SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/tnt-ports-logo.svg", UK TNT Sports 4 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/675021
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2334
+#http://myxpanel.pro:80/Martin/Martin/276893
+
+#EXTINF:-1 group-title="01. UK - TNT SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/tnt-ports-logo.svg", UK TNT Sports 1 FHD
+http://myxpanel.pro:80/Martin/Martin/276890
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2332
+
+
+
+
+#--*.*--02. FR - CANAL+--*.*--#
+
+
+#EXTINF:-1 group-title="01. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ SPORT
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ FOOT
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122056&extension=ts&play_token=223GgKAnFY
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122022&extension=ts&play_token=iSj2dolRme
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 3
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122024&extension=ts&play_token=CybqwfSLOa
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 4
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122939&extension=ts&play_token=HIEGNfDnjh
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 5
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122028&extension=ts&play_token=kFra0tQEzm
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 6
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122030&extension=ts&play_token=JO8O3NwIu3
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 7
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122032&extension=ts&play_token=v6BlP5EabS
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 8
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122034&extension=ts&play_token=x6iYHVWSH9
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 9
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122036&extension=ts&play_token=kuZ8wahbOG
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 10
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122038&extension=ts&play_token=Pop6uUQR3I
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 11
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122040&extension=ts&play_token=hTZeyPAfkN
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 12
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122042&extension=ts&play_token=1MtcjI5wmF
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 13
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122044&extension=ts&play_token=g168GcxJY4
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 14
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122046&extension=ts&play_token=ehR6K7NzS8
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 15
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122048&extension=ts&play_token=jR2N0mt5SZ
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 16
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122050&extension=ts&play_token=pgbrtZxiUM
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 17
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122052&extension=ts&play_token=o7h6R125hi
+
+#EXTINF:-1 group-title="02. FR - CANAL+" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/canal-logo.svg", FR CANAL+ LIVE 18
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1122054&extension=ts&play_token=XPmBZyeTRp
+
+
+
+
+#--*.*--03. CA - TSN--*.*--#
+
+
+#EXTINF:-1 group-title="03. CA - TSN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/tsn-logo.svg", CA TSN 1
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3146
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/6521/index.m3u8
+
+#EXTINF:-1 group-title="03. CA - TSN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/tsn-logo.svg", CA TSN 2
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3145
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/6492/index.m3u8
+
+#EXTINF:-1 group-title="03. CA - TSN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/tsn-logo.svg", CA TSN 3
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3144
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/6522/index.m3u8
+
+#EXTINF:-1 group-title="03. CA - TSN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/tsn-logo.svg", CA TSN 4
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3143
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/6445/index.m3u8
+
+#EXTINF:-1 group-title="03. CA - TSN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/tsn-logo.svg", CA TSN 5
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3142
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/6517/index.m3u8
+
+
+
+
+#--*.*--04. POR - DAZN--*.*--#
+
+
+#EXTINF:-1 group-title="04. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 1
+https://restream-live.realiptv.to/MotherOfPins3/8746645/925
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31954/index.m3u8
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/926
+
+#EXTINF:-1 group-title="04. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 2
+https://restream-live.realiptv.to/MotherOfPins3/8746645/923
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/924
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2532/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31955/index.m3u8
+
+#EXTINF:-1 group-title="04. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7062/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31956/index.m3u8
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/921
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/922
+
+#EXTINF:-1 group-title="04. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31957/index.m3u8
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/919
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/920
+
+#EXTINF:-1 group-title="04. POR - DAZN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/dazn-logo.svg", POR DAZN 5
+https://restream-live.realiptv.to/MotherOfPins3/8746645/917
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/918
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31957/index.m3u8
+
+
+
+
+#--*.*--05. BEIN SPORTS--*.*--#
+
+
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", USA BeIN Sports 4
+https://restream-live.realiptv.to/MotherOfPins3/8746645/5313
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", USA BeIN Sports 5
+https://restream-live.realiptv.to/MotherOfPins3/8746645/5312
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", USA BeIN Sports 6
+https://restream-live.realiptv.to/MotherOfPins3/8746645/5311
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", USA BeIN Sports 7
+https://restream-live.realiptv.to/MotherOfPins3/8746645/5310
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", USA BeIN Sports 8
+https://restream-live.realiptv.to/MotherOfPins3/8746645/5309
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", USA BeIN Sports LaLiga
+https://restream-live.realiptv.to/MotherOfPins3/8746645/5308
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", USA Bein Sports UHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3612
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", USA Bein Sports Xtra
+https://restream-live.realiptv.to/MotherOfPins3/8746645/434356
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 1
+https://restream-live.realiptv.to/MotherOfPins3/8746645/714411
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 1 English FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659436
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 1 French FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659439
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 2 English FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659437
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 2 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659428
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 2 French FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659440
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 3 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659429
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 3 French FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659441
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 4 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659430
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 5 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659431
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 6 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659432
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 7 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659433
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN Sports Global
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659426
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS NBA FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659438
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 8 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659434
+#EXTINF:-1 group-title="05. BEIN SPORTS" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/bein-sports-logo.svg", ARAB beIN SPORTS 9 FHD
+https://restream-live.realiptv.to/MotherOfPins3/8746645/659435
+
+
+
+
+#--*.*--06. USA - ESPN--*.*--#
+
+
+#EXTINF:-1 group-title="06. USA - ESPN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/usa-network-logo.svg", USA ESPN News
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3640
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2577
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/3728
+
+#EXTINF:-1 group-title="06. USA - ESPN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/usa-network-logo.svg", USA ESPN
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3636
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/3725
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/19156/index.m3u8
+
+#EXTINF:-1 group-title="06. USA - ESPN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/usa-network-logo.svg", USA ESPN 2 
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3637
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2581
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/3726
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/19155/index.m3u8
+
+#EXTINF:-1 group-title="06. USA - ESPN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/usa-network-logo.svg", USA ESPNU
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3638
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/648974
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2576
+
+#EXTINF:-1 group-title="06. USA - ESPN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/usa-network-logo.svg", USA ESPN Deportes
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2578
+
+#EXTINF:-1 group-title="06. USA - ESPN" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/usa-network-logo.svg", USA ESPN SEC Network
+https://restream-live.realiptv.to/MotherOfPins3/8746645/650415
+
+
+
+
+#--*.*--07. POT - SPORT TV--*.*--#
+
+
+#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 1
+https://restream-live.realiptv.to/MotherOfPins3/8746645/848
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2525/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31942/index.m3u8
+
+#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 2
+https://restream-live.realiptv.to/MotherOfPins3/8746645/846
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2526/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31943/index.m3u8
+
+#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 3
+https://restream-live.realiptv.to/MotherOfPins3/8746645/844
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2527/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31944/index.m3u8
+
+#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 4
+https://restream-live.realiptv.to/MotherOfPins3/8746645/842
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31945/index.m3u8
+
+#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV 5
+https://restream-live.realiptv.to/MotherOfPins3/8746645/839
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/840
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2529/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31946/index.m3u8
+
+#EXTINF:-1 group-title="07. POT - SPORT TV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports-tv-logo.svg", POT Sport TV +
+https://restream-live.realiptv.to/MotherOfPins3/8746645/51139
+
+
+
+
+#--*.*--08. GENERAL--*.*--#
+
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/mutv-logo.png", MUTV
+http://nocable.cc:8080////////////N2sdm7////////499994//////////53717
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/polsat-sport-logo.png", Polsat Sport 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/polsat-sport-logo.png", Polsat Sport 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/polsat-sport-logo.png", Polsat Sport 3
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/max-sport-logo.svg", Max Sport 1 HD
+http://77.46.130.252:99/maxsport1
+#http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/max-sport-logo.svg", Max Sport 2 HD
+http://77.46.130.252:99/maxsport2
+#http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/max-sport-logo.svg", Max Sport 3 HD
+http://77.46.130.252:99/maxsport3
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/max-sport-logo.svg", Max Sport 4 HD
+http://77.46.130.252:99/maxsport4
+#http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/tyc-sports-logo.svg", Tyc Sport Argentina
+http://myxpanel.pro:80/Martin/Martin/670987
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/usa-network-logo.svg", USA Network East 
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3694
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/3767
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/1101/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31124/index.m3u8
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/usa-network-logo.svg", USA Network West
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3848
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/fox-sports-logo.svg", USA Fox Sports 1 UHD 
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3645
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/3732
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2501
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/fox-sports-logo.svg", USA Fox Sports 2 UHD 
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3646
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2500
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/fox-sports-logo.svg", USA Fox Sports Netbase 
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2522
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/fox-sports-logo.svg", USA Fox Sports Ohio 
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2518
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/fox-sports-logo.svg", USA FOX Sports Southwest 
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2511
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/fox-sports-logo.svg", USA FOX Sports Tennessee 
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2508
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/eurosport-logo.svg",  UK Eurosport 1
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2286
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/19432/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/228/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/5075/index.m3u8
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/911
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31949/index.m3u8
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/eurosport-logo.svg",  UK Eurosport 2
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2285
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/19431/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/234/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/5076/index.m3u8
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/910
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/31950/index.m3u8
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/cbs-sports-logo.svg", CBS Sports Network
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3712
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7324/index.m3u8
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sportsnet-logo.svg", Sportsnet 360
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3073
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/6462/index.m3u8
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sportsnet-logo.svg", Sportsnet One
+https://restream-live.realiptv.to/MotherOfPins3/8746645/3071
+
+#EXTINF:-1 group-title="08. GENERAL" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sportsnet-logo.svg", Sportsnet World
+https://restream-live.realiptv.to/MotherOfPins3/8746645/88060
