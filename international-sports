@@ -1,4 +1,4 @@
-#EXTM3U cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U
 
 
 
@@ -8,14 +8,15 @@
 
 #EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/sky-sports.png", UK Sky Sports New HD
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2179
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/9314/index.m3u8
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/2183
 #http://kstv.us:8080/4VUyfZBQzk/95104974615/47870
 
 #EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/sky-sports.png", UK Sky Sports Main Events HD
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2184
-#https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/9308/index.m3u8
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7337/index.m3u8
+#https://restream-live.realiptv.to/MotherOfPins3/8746645/2185
 #http://kstv.us:8080/4VUyfZBQzk/95104974615/47868
 
 #EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/sky-sports.png", UK Sky Sports Premier League HD
@@ -34,6 +35,7 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2188
 
 #EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/sky-sports.png", UK Sky Sports Plus HD
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2193
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7338/index.m3u8
 #http://kstv.us:8080/4VUyfZBQzk/95104974615/47863
 
 #EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/sky-sports.png", UK Sky Sports F1 4k
@@ -41,21 +43,26 @@ https://xemzi.short.gy/2000016
 
 #EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/sky-sports.png", UK Sky Sports F1 HD
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2189
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7342/index.m3u8
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/2190
 #http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=122888&extension=ts&play_token=LB2IN39AIF
 #http://kstv.us:8080/4VUyfZBQzk/95104974615/47865
 
 #EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/sky-sports.png", UK Sky Sports Golf HD
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2186
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7344/index.m3u8
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/2187
 #http://kstv.us:8080/4VUyfZBQzk/95104974615/47867
 
 #EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/sky-sports.png", UK Sky Sports MIX
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2180
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7339/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/9310/index.m3u8
 #http://kstv.us:8080/4VUyfZBQzk/95104974615/47869
 
 #EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/sky-sports.png", UK Sky Sport Racing HD
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2226
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7341/index.m3u8
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/527483
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/102182
 #http://kstv.us:8080/4VUyfZBQzk/95104974615/47872
@@ -65,11 +72,13 @@ http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/293804
 
 #EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/sky-sports.png", UK Sky Sports Action HD
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2194
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7340/index.m3u8
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/2195
 #http://kstv.us:8080/4VUyfZBQzk/95104974615/47862
 
 #EXTINF:-1 group-title="00. UK - SKY SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/sky-sports.png", UK Sky Sports Cricket HD
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2191
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/7343/index.m3u8
 #https://restream-live.realiptv.to/MotherOfPins3/8746645/2192
 #http://kstv.us:8080/4VUyfZBQzk/95104974615/47864
 
@@ -90,6 +99,7 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/2337
 #EXTINF:-1 group-title="01. UK - TNT SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/tnt-ports.png", UK TNT Sports 2 FHD
 https://restream-live.realiptv.to/MotherOfPins3/8746645/2336
 #http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2506/index.m3u8
+#http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/EHF55SW2TTSDUN/2509/index.m3u8
 #http://kstv.us:8080/4VUyfZBQzk/95104974615/47851
 #http://myxpanel.pro:80/Martin/Martin/709376
 
@@ -107,8 +117,8 @@ https://restream-live.realiptv.to/MotherOfPins3/8746645/675021
 #http://myxpanel.pro:80/Martin/Martin/276893
 
 #EXTINF:-1 group-title="01. UK - TNT SPORT" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/sports/tnt-ports.png", UK TNT Sports 5 FHD
-http://myxpanel.pro:80/Martin/Martin/276890
-#https://restream-live.realiptv.to/MotherOfPins3/8746645/2332
+https://restream-live.realiptv.to/MotherOfPins3/8746645/2332
+#http://myxpanel.pro:80/Martin/Martin/276890
 
 
 
