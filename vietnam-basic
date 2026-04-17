@@ -263,7 +263,7 @@ https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 
-#EXTINF:-1 tvg-id="sctv22hd" group-title="03. 💳 SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png",:SCTV22 HD
+#EXTINF:-1 tvg-id="sctv22hd" group-title="03. 💳 SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png", SCTV22 HD
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="03. 💳 SCTV" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/general/sctv-th.png", SCTV Phim Tổng Hợp
@@ -298,8 +298,9 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="tayninhtv" group-title="04. 📺 ĐỊA PHƯƠNG" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/tayninh.png", TN HD | TH Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+https://seagames33.quanlehong539.workers.dev/index.m3u8
 #https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
+#https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 
 #EXTINF:-1 tvg-id="angiang1" group-title="04. 📺 ĐỊA PHƯƠNG" tvg-logo="https://freem3u.xyz/static/images/diaphuong/caicach/angiang1.png", ATV1 HD | TH An Giang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -395,9 +396,10 @@ https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
 #https://tv.gialaitv.vn/tv.m3u8
 
 #EXTINF:-1 tvg-id="hue" group-title="04. 📺 ĐỊA PHƯƠNG" tvg-logo="https://freem3u.xyz/static/images/diaphuong/thuathienhue.png", HueTV | TH Thừa Thiên Huế
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.
-https://live.trt.com.vn/TRT-Online/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=63
 #https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+#https://live.trt.com.vn/TRT-Online/playlist.m3u8
 
 #EXTINF:-1 tvg-id="khanhhoa" group-title="04. 📺 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/towrx/iptv-archive/refs/heads/main/logos/general/ktv.png", KTV HD | TH Khánh Hòa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -566,7 +568,7 @@ https://vietanh18h1.duckdns.org/tv360/112/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://liveh12.vtvprime.vn/hls/TV5/index.m3u8
 
-#EXTINF:-1 tvg-id="afnhd" group-title="05. 🌍 QUỐC TẾ" tvg-logo="https://freem3u.xyz/static/images/global/afnhd.png", Asia Food Network HD
+#EXTINF:-1 tvg-id="afnhd" group-title="05. 🌍 QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/250px-Food_Network_logo.svg.png", Asia Food Network HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vietanh18h1.duckdns.org/tv360/215/index.m3u8
 
